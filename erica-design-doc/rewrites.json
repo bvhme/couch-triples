@@ -1,0 +1,8 @@
+[{
+    "from": "search/:class",
+    "to": "_list/results/:class",
+    "query": {
+        "startkey": ":key",
+        "endkey": "key"
+    }
+}]
