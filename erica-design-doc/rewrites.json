@@ -1,5 +1,5 @@
 [{
-    "from": "search/:class",
+    "from": "list/:class",
     "to": "_list/results/:class",
     "query": {
         "startkey": ":key",
